@@ -1,0 +1,1 @@
+export { generateEmailHTML } from './generateEmailHTML.utils';
